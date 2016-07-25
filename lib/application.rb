@@ -1,4 +1,4 @@
-require_relative './application/delete_me'
+require_relative '../lib/application/board'
 
 class Application
 
