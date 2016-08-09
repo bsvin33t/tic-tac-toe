@@ -31,4 +31,4 @@ namespace :coverage do
   end
 end
 
-task :default => ["coverage:unit", "coverage:integration", "metrics:all"]
+task :default => ["unit"]
